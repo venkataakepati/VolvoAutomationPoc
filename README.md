@@ -48,4 +48,4 @@ Note that selenium containers can be started once and then used across multiple 
 
 ## Allure Report 
 
-Report will be generated under the Allur-report folder
+Report will be generated under the Allur-report folder after the test scripts execution
