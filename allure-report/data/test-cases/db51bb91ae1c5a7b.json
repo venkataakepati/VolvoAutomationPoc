@@ -1,0 +1,66 @@
+{
+  "uid" : "db51bb91ae1c5a7b",
+  "name" : "",
+  "fullName" : "Campaign carousel items: Validate carousel items displayed model name \"XC40 Recharge\" and recharge type \"pure electric\".",
+  "historyId" : "db625dcfd2851ce4a86390547d9c22b1",
+  "time" : {
+    "start" : 1626824202543,
+    "stop" : 1626824202553,
+    "duration" : 10
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign carousel items: Validate carousel items displayed model name \"XC40 Recharge\" and recharge type \"pure electric\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign carousel items: Validate carousel items displayed model name \"XC40 Recharge\" and recharge type \"pure electric\""
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Campaign carousel items: Validate carousel items displayed model name \"XC40 Recharge\" and recharge type \"pure electric\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.114"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bfbcf3b1e5c38e25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824184862,
+        "stop" : 1626824184865,
+        "duration" : 3
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db51bb91ae1c5a7b.json",
+  "parameterValues" : [ "chrome-91.0.4472.114" ]
+}

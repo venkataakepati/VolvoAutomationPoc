@@ -1,0 +1,56 @@
+{
+  "uid" : "5703c4b43f067616",
+  "name" : "Given I am on campaign page",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide.Given I am on campaign page",
+  "historyId" : "43f7476657a59ce512ca819bc0c40c14",
+  "time" : {
+    "start" : 1626825126234,
+    "stop" : 1626825136502,
+    "duration" : 10268
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on campaign page"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5703c4b43f067616.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

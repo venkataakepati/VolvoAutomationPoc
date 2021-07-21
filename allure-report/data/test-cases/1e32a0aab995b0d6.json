@@ -1,0 +1,82 @@
+{
+  "uid" : "1e32a0aab995b0d6",
+  "name" : "",
+  "fullName" : "Campaign carousel items: Validate carousel items displayed model name \"XC90 Recharge\" and recharge type \"plug-in hybrid\".",
+  "historyId" : "283e3a95199458ecd789a5a30c57aef1",
+  "time" : {
+    "start" : 1626824603217,
+    "stop" : 1626824603220,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign carousel items: Validate carousel items displayed model name \"XC90 Recharge\" and recharge type \"plug-in hybrid\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign carousel items: Validate carousel items displayed model name \"XC90 Recharge\" and recharge type \"plug-in hybrid\""
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Campaign carousel items: Validate carousel items displayed model name \"XC90 Recharge\" and recharge type \"plug-in hybrid\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.114"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4a627eb07b91b291",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824543117,
+        "stop" : 1626824543133,
+        "duration" : 16
+      }
+    }, {
+      "uid" : "67c703fb50d142b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824132390,
+        "stop" : 1626824132394,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "bf642e2aaa4e4408",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824110035,
+        "stop" : 1626824110044,
+        "duration" : 9
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1e32a0aab995b0d6.json",
+  "parameterValues" : [ "chrome-91.0.4472.114" ]
+}

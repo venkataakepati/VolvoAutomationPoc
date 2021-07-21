@@ -1,0 +1,82 @@
+{
+  "uid" : "619f975aced48f54",
+  "name" : "",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Explore\".",
+  "historyId" : "30af9b3d5e3fc19b497ae478b3c4d82",
+  "time" : {
+    "start" : 1626826402383,
+    "stop" : 1626826402391,
+    "duration" : 8
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Explore\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Explore\""
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Explore\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "bea8e0372b5334d3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826364943,
+        "stop" : 1626826364943,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "472993e1aedc3c6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825282557,
+        "stop" : 1626825282560,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "a8ba1f0dc9b9eed9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825257635,
+        "stop" : 1626825257635,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "619f975aced48f54.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

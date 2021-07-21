@@ -1,0 +1,66 @@
+{
+  "uid" : "e446baf9a741bfd8",
+  "name" : "When I click main menu item \"Explore\" in side nav bar",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Explore\".When I click main menu item \"Explore\" in side nav bar",
+  "historyId" : "ecf525b289ae052e6dcfc40569be54b0",
+  "time" : {
+    "start" : 1626826384874,
+    "stop" : 1626826385470,
+    "duration" : 596
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Explore\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Explore\""
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click main menu item \"Explore\" in side nav bar"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Explore\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "497fefae9de90c95",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825264457,
+        "stop" : 1626825265505,
+        "duration" : 1048
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e446baf9a741bfd8.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "c33d84e9ffe98bd0",
+  "name" : "Then I see side navigation bar is \"not displayed\"",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Why Volvo\".Then I see side navigation bar is \"not displayed\"",
+  "historyId" : "fa6ad8e58bd47465bb23bbadba7c0e79",
+  "time" : {
+    "start" : 1626826331090,
+    "stop" : 1626826339108,
+    "duration" : 8018
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Why Volvo\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Why Volvo\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see side navigation bar is \"not displayed\""
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Why Volvo\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "75a653c04722522",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825238386,
+        "stop" : 1626825238509,
+        "duration" : 123
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c33d84e9ffe98bd0.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

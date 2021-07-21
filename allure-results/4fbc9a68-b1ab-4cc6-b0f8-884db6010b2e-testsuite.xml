@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1626826459194' stop='1626826475369'>
+    <name>Campaign carousel items: Validate carousel items displayed model name "XC90 Recharge" and recharge type "plug-in hybrid"</name>
+    <title>Campaign carousel items: Validate carousel items displayed model name "XC90 Recharge" and recharge type "plug-in hybrid"</title>
+    <test-cases>
+        <test-case start='1626826459195' status='passed' stop='1626826459198'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-90.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626826459198' status='passed' stop='1626826467347'>
+            <name>Given I am on campaign page</name>
+            <title>Given I am on campaign page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-90.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626826467347' status='passed' stop='1626826475366'>
+            <name>Then I see carousel item displayed with model name "XC90 Recharge" and recharge type "plug-in hybrid"</name>
+            <title>Then I see carousel item displayed with model name "XC90 Recharge" and recharge type "plug-in hybrid"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-90.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626826475366' status='passed' stop='1626826475368'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='firefox-90.0'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,66 @@
+{
+  "uid" : "1b45ded725f00249",
+  "name" : "Then I validate main menu item \"Buy\" in side nav bar",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\".Then I validate main menu item \"Buy\" in side nav bar",
+  "historyId" : "18d280b81427fd6c49cc424d8d0e0bc2",
+  "time" : {
+    "start" : 1626826618083,
+    "stop" : 1626826618525,
+    "duration" : 442
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I validate main menu item \"Buy\" in side nav bar"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-90.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6899a7423d6e8acd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825527632,
+        "stop" : 1626825528075,
+        "duration" : 443
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1b45ded725f00249.json",
+  "parameterValues" : [ "firefox-90.0" ]
+}

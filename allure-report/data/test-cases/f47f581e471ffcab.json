@@ -1,0 +1,56 @@
+{
+  "uid" : "f47f581e471ffcab",
+  "name" : "Given I am on campaign page",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\".Given I am on campaign page",
+  "historyId" : "d22b970be8d5874de9472bee686569d4",
+  "time" : {
+    "start" : 1626825282586,
+    "stop" : 1626825286207,
+    "duration" : 3621
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on campaign page"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f47f581e471ffcab.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

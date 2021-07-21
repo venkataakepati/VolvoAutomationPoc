@@ -1,0 +1,56 @@
+{
+  "uid" : "22c88826e431da9f",
+  "name" : "Given I am on campaign page",
+  "fullName" : "Campaign carousel items: Validate carousel items displayed model name \"XC90 Recharge\" and recharge type \"plug-in hybrid\".Given I am on campaign page",
+  "historyId" : "a35bca81d7e3078267565b0a32e5bd07",
+  "time" : {
+    "start" : 1626825049004,
+    "stop" : 1626825054651,
+    "duration" : 5647
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign carousel items: Validate carousel items displayed model name \"XC90 Recharge\" and recharge type \"plug-in hybrid\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign carousel items: Validate carousel items displayed model name \"XC90 Recharge\" and recharge type \"plug-in hybrid\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on campaign page"
+  }, {
+    "name" : "package",
+    "value" : "Campaign carousel items: Validate carousel items displayed model name \"XC90 Recharge\" and recharge type \"plug-in hybrid\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "22c88826e431da9f.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

@@ -1,0 +1,58 @@
+{
+  "uid" : "5d4a0dd415c4e82e",
+  "name" : "Then I validate main menu item \"Own\" in side nav bar",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Own\".Then I validate main menu item \"Own\" in side nav bar",
+  "historyId" : "b6a78c3e9b2d046fb0d5886b15c2b29e",
+  "time" : {
+    "start" : 1626826668875,
+    "stop" : 1626826669630,
+    "duration" : 755
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Own\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Own\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I validate main menu item \"Own\" in side nav bar"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Own\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-90.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5d4a0dd415c4e82e.json",
+  "parameterValues" : [ "firefox-90.0" ]
+}

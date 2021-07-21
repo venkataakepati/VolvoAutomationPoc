@@ -1,0 +1,56 @@
+{
+  "uid" : "aaf87595c1f4cf20",
+  "name" : "Then I validate sub menu items \"Recharge, Concepts\" in side nav",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Explore\".Then I validate sub menu items \"Recharge, Concepts\" in side nav",
+  "historyId" : "ea5598b9abf741b73d0da209d5d69f2",
+  "time" : {
+    "start" : 1626825265711,
+    "stop" : 1626825282557,
+    "duration" : 16846
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Explore\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Explore\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I validate sub menu items \"Recharge, Concepts\" in side nav"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Explore\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "aaf87595c1f4cf20.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "3237bd7e34826616",
+  "name" : "Then I validate sub menu items \"Fleet sales, Used cars,Diplomatic sales, Child seats\" in side nav",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\".Then I validate sub menu items \"Fleet sales, Used cars,Diplomatic sales, Child seats\" in side nav",
+  "historyId" : "9f90dcce5a70d0abb32171862e6a8a17",
+  "time" : {
+    "start" : 1626826620130,
+    "stop" : 1626826658380,
+    "duration" : 38250
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I validate sub menu items \"Fleet sales, Used cars,Diplomatic sales, Child seats\" in side nav"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-90.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6aab73e648d85f5b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825529551,
+        "stop" : 1626825571210,
+        "duration" : 41659
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3237bd7e34826616.json",
+  "parameterValues" : [ "firefox-90.0" ]
+}

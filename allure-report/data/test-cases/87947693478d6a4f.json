@@ -1,0 +1,66 @@
+{
+  "uid" : "87947693478d6a4f",
+  "name" : "Then I see side navigation bar is \"displayed\"",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide.Then I see side navigation bar is \"displayed\"",
+  "historyId" : "b88882c7d372888669d869ad5bf414e5",
+  "time" : {
+    "start" : 1626826200337,
+    "stop" : 1626826208355,
+    "duration" : 8018
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see side navigation bar is \"displayed\""
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "1dcc283cae01984f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825137136,
+        "stop" : 1626825145704,
+        "duration" : 8568
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "87947693478d6a4f.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

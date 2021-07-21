@@ -1,0 +1,82 @@
+{
+  "uid" : "6e1586d4b92ebb81",
+  "name" : "Then I see side navigation bar is \"not displayed\"",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide.Then I see side navigation bar is \"not displayed\"",
+  "historyId" : "ad8e8d7ca08a2f017b4d47300f83c743",
+  "time" : {
+    "start" : 1626826208827,
+    "stop" : 1626826216846,
+    "duration" : 8019
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see side navigation bar is \"not displayed\""
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6d37b848975bbf4f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826192202,
+        "stop" : 1626826200219,
+        "duration" : 8017
+      }
+    }, {
+      "uid" : "1301c2efd4b2b89",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825149154,
+        "stop" : 1626825149180,
+        "duration" : 26
+      }
+    }, {
+      "uid" : "ae2f1add92098d5f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825136502,
+        "stop" : 1626825136831,
+        "duration" : 329
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6e1586d4b92ebb81.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

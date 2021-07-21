@@ -1,0 +1,82 @@
+{
+  "uid" : "fba37bea606217cb",
+  "name" : "",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\".",
+  "historyId" : "974bbd8123dbe228e57543445230587f",
+  "time" : {
+    "start" : 1626826440549,
+    "stop" : 1626826440552,
+    "duration" : 3
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\""
+  }, {
+    "name" : "testMethod",
+    "value" : ""
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "b467dbca0b741159",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826402541,
+        "stop" : 1626826402542,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "cd6d6c26ab483eae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825306048,
+        "stop" : 1626825306050,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "82e12dda44edf2b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825282586,
+        "stop" : 1626825282586,
+        "duration" : 0
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fba37bea606217cb.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

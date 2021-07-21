@@ -1,0 +1,56 @@
+{
+  "uid" : "c17140395bf2e1da",
+  "name" : "Then I validate main menu item \"Why Volvo\" in side nav bar",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Why Volvo\".Then I validate main menu item \"Why Volvo\" in side nav bar",
+  "historyId" : "b351fe305c88e9709ae68b54610fb5ad",
+  "time" : {
+    "start" : 1626825240062,
+    "stop" : 1626825240126,
+    "duration" : 64
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Why Volvo\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Why Volvo\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I validate main menu item \"Why Volvo\" in side nav bar"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Why Volvo\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c17140395bf2e1da.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

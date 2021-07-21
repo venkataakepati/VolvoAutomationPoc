@@ -1,0 +1,56 @@
+{
+  "uid" : "3a893ffbd7b3661e",
+  "name" : "Then I see side navigation bar is \"displayed\"",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\".Then I see side navigation bar is \"displayed\"",
+  "historyId" : "db1d9f855e5721d79eaa805fe0ec1041",
+  "time" : {
+    "start" : 1626825526166,
+    "stop" : 1626825527632,
+    "duration" : 1466
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see side navigation bar is \"displayed\""
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-90.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a893ffbd7b3661e.json",
+  "parameterValues" : [ "firefox-90.0" ]
+}

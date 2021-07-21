@@ -1,0 +1,82 @@
+{
+  "uid" : "c822a0c49d536e0d",
+  "name" : "Then I see side navigation bar is \"not displayed\"",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide.Then I see side navigation bar is \"not displayed\"",
+  "historyId" : "c32d57ceec2351654ee2b14db8568ffc",
+  "time" : {
+    "start" : 1626826584466,
+    "stop" : 1626826584762,
+    "duration" : 296
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see side navigation bar is \"not displayed\""
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-90.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "660ca6fd461df27b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826568819,
+        "stop" : 1626826570025,
+        "duration" : 1206
+      }
+    }, {
+      "uid" : "d8d4b7f0ad75e827",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825515908,
+        "stop" : 1626825516371,
+        "duration" : 463
+      }
+    }, {
+      "uid" : "1fd6e539fb964715",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825491397,
+        "stop" : 1626825496795,
+        "duration" : 5398
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c822a0c49d536e0d.json",
+  "parameterValues" : [ "firefox-90.0" ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "155d8d840ed044c2",
+  "name" : "When I click main menu item \"More\" in side nav bar",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\".When I click main menu item \"More\" in side nav bar",
+  "historyId" : "de34bc9b09172db806d56f241be2632a",
+  "time" : {
+    "start" : 1626826423046,
+    "stop" : 1626826423618,
+    "duration" : 572
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\""
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click main menu item \"More\" in side nav bar"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9c591992f6225bd7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825288342,
+        "stop" : 1626825289154,
+        "duration" : 812
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "155d8d840ed044c2.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

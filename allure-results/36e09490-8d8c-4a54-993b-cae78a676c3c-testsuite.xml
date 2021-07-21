@@ -1,0 +1,82 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1626824543115' stop='1626824603226'>
+    <name>Campaign carousel items: Validate carousel items displayed model name "XC90 Recharge" and recharge type "plug-in hybrid"</name>
+    <title>Campaign carousel items: Validate carousel items displayed model name "XC90 Recharge" and recharge type "plug-in hybrid"</title>
+    <test-cases>
+        <test-case start='1626824543117' status='passed' stop='1626824543133'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-91.0.4472.114'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626824543134' status='broken' stop='1626824603216'>
+            <name>Given I am on campaign page</name>
+            <title>Given I am on campaign page</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-91.0.4472.114'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Error: function timed out, ensure the promise resolves within 60000 milliseconds</message>
+                <stack-trace>Error: function timed out, ensure the promise resolves within 60000 milliseconds
+                    at Timeout._onTimeout (/Users/subbu/Documents/Volvo/VolvoAutomationTest/VolvoAutomationPoc/node_modules/@cucumber/cucumber/src/user_code_runner.ts:80:18)
+                    at listOnTimeout (internal/timers.js:554:17)
+                    at processTimers (internal/timers.js:497:7)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1626824603216' status='undefined'>
+            <name>Then I see carousel item displayed with model name "XC90 Recharge" and recharge type "plug-in hybrid"</name>
+            <title>Then I see carousel item displayed with model name "XC90 Recharge" and recharge type "plug-in hybrid"</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-91.0.4472.114'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1626824603217' status='pending' stop='1626824603217'>
+            <name>I see carousel item displayed with model name "XC90 Recharge" and recharge type "plug-in hybrid"</name>
+            <title>I see carousel item displayed with model name "XC90 Recharge" and recharge type "plug-in hybrid"</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Test ignored</message>
+                <stack-trace>undefined</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1626824603217' status='passed' stop='1626824603220'>
+            <name></name>
+            <title></title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-91.0.4472.114'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

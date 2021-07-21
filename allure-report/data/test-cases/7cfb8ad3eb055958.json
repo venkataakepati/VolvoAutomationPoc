@@ -1,0 +1,66 @@
+{
+  "uid" : "7cfb8ad3eb055958",
+  "name" : "When I click side menu bar close icon",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide.When I click side menu bar close icon",
+  "historyId" : "648a3e606bd91ccb10f0ea2235ed3de1",
+  "time" : {
+    "start" : 1626826583221,
+    "stop" : 1626826584466,
+    "duration" : 1245
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click side menu bar close icon"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-90.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "58f09b2fb8a04a61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825514279,
+        "stop" : 1626825515908,
+        "duration" : 1629
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7cfb8ad3eb055958.json",
+  "parameterValues" : [ "firefox-90.0" ]
+}

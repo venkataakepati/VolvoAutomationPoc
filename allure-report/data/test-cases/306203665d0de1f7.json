@@ -1,0 +1,56 @@
+{
+  "uid" : "306203665d0de1f7",
+  "name" : "When I click hamburger icon in top nav bar",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide.When I click hamburger icon in top nav bar",
+  "historyId" : "b1108f0d2c564eb0b260fe82169b2179",
+  "time" : {
+    "start" : 1626825496795,
+    "stop" : 1626825499791,
+    "duration" : 2996
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click hamburger icon in top nav bar"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-90.0"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "306203665d0de1f7.json",
+  "parameterValues" : [ "firefox-90.0" ]
+}

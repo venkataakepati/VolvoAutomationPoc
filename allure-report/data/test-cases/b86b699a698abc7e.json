@@ -1,0 +1,66 @@
+{
+  "uid" : "b86b699a698abc7e",
+  "name" : "Then I see carousel item displayed with model name \"XC40 Recharge\" and recharge type \"pure electric\"",
+  "fullName" : "Campaign carousel items: Validate carousel items displayed model name \"XC40 Recharge\" and recharge type \"pure electric\".Then I see carousel item displayed with model name \"XC40 Recharge\" and recharge type \"pure electric\"",
+  "historyId" : "2ab8d7737228f0450fca21333fb70c0c",
+  "time" : {
+    "start" : 1626826171201,
+    "stop" : 1626826179216,
+    "duration" : 8015
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign carousel items: Validate carousel items displayed model name \"XC40 Recharge\" and recharge type \"pure electric\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign carousel items: Validate carousel items displayed model name \"XC40 Recharge\" and recharge type \"pure electric\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see carousel item displayed with model name \"XC40 Recharge\" and recharge type \"pure electric\""
+  }, {
+    "name" : "package",
+    "value" : "Campaign carousel items: Validate carousel items displayed model name \"XC40 Recharge\" and recharge type \"pure electric\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "838d4a277fecfb61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825102955,
+        "stop" : 1626825110974,
+        "duration" : 8019
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b86b699a698abc7e.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "6ca93b3eeffe3bda",
+  "name" : "When I click hamburger icon in top nav bar",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\".When I click hamburger icon in top nav bar",
+  "historyId" : "2e5b07f6c802b31431d3af3a0b01159b",
+  "time" : {
+    "start" : 1626826414709,
+    "stop" : 1626826414917,
+    "duration" : 208
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\""
+  }, {
+    "name" : "testMethod",
+    "value" : "When I click hamburger icon in top nav bar"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f9612d0d42999bb3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825286315,
+        "stop" : 1626825286510,
+        "duration" : 195
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6ca93b3eeffe3bda.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

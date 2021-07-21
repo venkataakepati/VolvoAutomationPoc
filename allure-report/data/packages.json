@@ -1,0 +1,2047 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Campaign carousel items: Validate carousel items displayed model name \"XC60 Recharge\" and recharge type \"plug-in hybrid\"",
+    "children" : [ {
+      "name" : "Given I am on campaign page",
+      "uid" : "5be027ceb66912eb",
+      "parentUid" : "ee94c75e51c923ca783f70e641a9d3e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824132424,
+        "stop" : 1626824162891,
+        "duration" : 30467
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Then I see carousel item displayed with model name \"XC60 Recharge\" and recharge type \"plug-in hybrid\"",
+      "uid" : "9934948ce9d0f5b3",
+      "parentUid" : "ee94c75e51c923ca783f70e641a9d3e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824162891,
+        "stop" : 1626824170905,
+        "duration" : 8014
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "",
+      "uid" : "98af1da77c8eb25e",
+      "parentUid" : "ee94c75e51c923ca783f70e641a9d3e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824170906,
+        "stop" : 1626824170907,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "d7e3f8ee336764fe",
+      "parentUid" : "ee94c75e51c923ca783f70e641a9d3e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826144356,
+        "stop" : 1626826148499,
+        "duration" : 4143
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see carousel item displayed with model name \"XC60 Recharge\" and recharge type \"plug-in hybrid\"",
+      "uid" : "1dccaaf6e5ad8807",
+      "parentUid" : "ee94c75e51c923ca783f70e641a9d3e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826148499,
+        "stop" : 1626826156516,
+        "duration" : 8017
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "",
+      "uid" : "53fb3e62ae2faefd",
+      "parentUid" : "ee94c75e51c923ca783f70e641a9d3e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826156517,
+        "stop" : 1626826156519,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "1b3e2fc7584584f2",
+      "parentUid" : "ee94c75e51c923ca783f70e641a9d3e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826475382,
+        "stop" : 1626826481083,
+        "duration" : 5701
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see carousel item displayed with model name \"XC60 Recharge\" and recharge type \"plug-in hybrid\"",
+      "uid" : "2fd95de595d81ac0",
+      "parentUid" : "ee94c75e51c923ca783f70e641a9d3e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826481083,
+        "stop" : 1626826489096,
+        "duration" : 8013
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "",
+      "uid" : "ee79107550df7ae7",
+      "parentUid" : "ee94c75e51c923ca783f70e641a9d3e4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826489096,
+        "stop" : 1626826489098,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    } ],
+    "uid" : "ee94c75e51c923ca783f70e641a9d3e4"
+  }, {
+    "name" : "Campaign carousel items: Validate carousel items displayed model name \"XC40 Recharge\" and recharge type \"plug-in hybrid\"",
+    "children" : [ {
+      "name" : "Given I am on campaign page",
+      "uid" : "84c853e18b436124",
+      "parentUid" : "72cbc2a6dbad36af27daf659bcbd2d90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824170921,
+        "stop" : 1626824176832,
+        "duration" : 5911
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Then I see carousel item displayed with model name \"XC40 Recharge\" and recharge type \"plug-in hybrid\"",
+      "uid" : "c9bd08a47df339e7",
+      "parentUid" : "72cbc2a6dbad36af27daf659bcbd2d90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824176832,
+        "stop" : 1626824184854,
+        "duration" : 8022
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "",
+      "uid" : "9ac74d69639eceb3",
+      "parentUid" : "72cbc2a6dbad36af27daf659bcbd2d90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824184854,
+        "stop" : 1626824184858,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "c80adfc1fef734c",
+      "parentUid" : "72cbc2a6dbad36af27daf659bcbd2d90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826156527,
+        "stop" : 1626826160121,
+        "duration" : 3594
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see carousel item displayed with model name \"XC40 Recharge\" and recharge type \"plug-in hybrid\"",
+      "uid" : "984349123594f828",
+      "parentUid" : "72cbc2a6dbad36af27daf659bcbd2d90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826160121,
+        "stop" : 1626826168136,
+        "duration" : 8015
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "",
+      "uid" : "8743d243eab9c4d7",
+      "parentUid" : "72cbc2a6dbad36af27daf659bcbd2d90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826168136,
+        "stop" : 1626826168140,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "991984075af24dc6",
+      "parentUid" : "72cbc2a6dbad36af27daf659bcbd2d90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826489103,
+        "stop" : 1626826495014,
+        "duration" : 5911
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see carousel item displayed with model name \"XC40 Recharge\" and recharge type \"plug-in hybrid\"",
+      "uid" : "e6514bc90737a4b",
+      "parentUid" : "72cbc2a6dbad36af27daf659bcbd2d90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826495014,
+        "stop" : 1626826503025,
+        "duration" : 8011
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "",
+      "uid" : "1222ce80816cca92",
+      "parentUid" : "72cbc2a6dbad36af27daf659bcbd2d90",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826503025,
+        "stop" : 1626826503028,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    } ],
+    "uid" : "72cbc2a6dbad36af27daf659bcbd2d90"
+  }, {
+    "name" : "Campaign carousel items: Validate carousel items displayed model name \"XC40 Recharge\" and recharge type \"pure electric\"",
+    "children" : [ {
+      "name" : "Given I am on campaign page",
+      "uid" : "5f23343643bb591e",
+      "parentUid" : "0f2c7b29da846b6bbaddc8e3d6215e03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824184865,
+        "stop" : 1626824194522,
+        "duration" : 9657
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Then I see carousel item displayed with model name \"XC40 Recharge\" and recharge type \"pure electric\"",
+      "uid" : "475ecfae0574611d",
+      "parentUid" : "0f2c7b29da846b6bbaddc8e3d6215e03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824194523,
+        "stop" : 1626824202543,
+        "duration" : 8020
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "",
+      "uid" : "db51bb91ae1c5a7b",
+      "parentUid" : "0f2c7b29da846b6bbaddc8e3d6215e03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824202543,
+        "stop" : 1626824202553,
+        "duration" : 10
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "2a1d1456bed35613",
+      "parentUid" : "0f2c7b29da846b6bbaddc8e3d6215e03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826168147,
+        "stop" : 1626826171201,
+        "duration" : 3054
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see carousel item displayed with model name \"XC40 Recharge\" and recharge type \"pure electric\"",
+      "uid" : "b86b699a698abc7e",
+      "parentUid" : "0f2c7b29da846b6bbaddc8e3d6215e03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826171201,
+        "stop" : 1626826179216,
+        "duration" : 8015
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "",
+      "uid" : "598d8bffc1d79826",
+      "parentUid" : "0f2c7b29da846b6bbaddc8e3d6215e03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826179216,
+        "stop" : 1626826179219,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "7012f52f65863179",
+      "parentUid" : "0f2c7b29da846b6bbaddc8e3d6215e03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826503035,
+        "stop" : 1626826532937,
+        "duration" : 29902
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see carousel item displayed with model name \"XC40 Recharge\" and recharge type \"pure electric\"",
+      "uid" : "3de6de533bd51cf1",
+      "parentUid" : "0f2c7b29da846b6bbaddc8e3d6215e03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826532937,
+        "stop" : 1626826540953,
+        "duration" : 8016
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "",
+      "uid" : "145e7a925607defe",
+      "parentUid" : "0f2c7b29da846b6bbaddc8e3d6215e03",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826540953,
+        "stop" : 1626826540955,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    } ],
+    "uid" : "0f2c7b29da846b6bbaddc8e3d6215e03"
+  }, {
+    "name" : "Campaign page menu bar and menu items items: Validate Navigation Side bar show hide",
+    "children" : [ {
+      "name" : "Given I am on campaign page",
+      "uid" : "7684f00861b92b0b",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824232954,
+        "stop" : 1626824240504,
+        "duration" : 7550
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "When I click hamburger icon in top nav bar",
+      "uid" : "f56fa27ef4474c31",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824242097,
+        "stop" : 1626824244534,
+        "duration" : 2437
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"displayed\"",
+      "uid" : "ccdd518af00bc9a8",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824244534,
+        "stop" : 1626824253680,
+        "duration" : 9146
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "When I click side menu bar close icon",
+      "uid" : "ecf08f8c00a7fef3",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824253680,
+        "stop" : 1626824254764,
+        "duration" : 1084
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"not displayed\"",
+      "uid" : "f70fce4470dcc0e0",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824254764,
+        "stop" : 1626824255279,
+        "duration" : 515
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "",
+      "uid" : "a03cec15f4dda4c2",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824255279,
+        "stop" : 1626824255282,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "5852b2baab534f4b",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826187727,
+        "stop" : 1626826192202,
+        "duration" : 4475
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "When I click hamburger icon in top nav bar",
+      "uid" : "643fdb8dd7c2a006",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826200219,
+        "stop" : 1626826200336,
+        "duration" : 117
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"displayed\"",
+      "uid" : "87947693478d6a4f",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826200337,
+        "stop" : 1626826208355,
+        "duration" : 8018
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "When I click side menu bar close icon",
+      "uid" : "b5456d2556963909",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826208355,
+        "stop" : 1626826208827,
+        "duration" : 472
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"not displayed\"",
+      "uid" : "6e1586d4b92ebb81",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826208827,
+        "stop" : 1626826216846,
+        "duration" : 8019
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "",
+      "uid" : "b1505ed6bc057e5a",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826216846,
+        "stop" : 1626826216855,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "925e1cb235baaeca",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826555204,
+        "stop" : 1626826568819,
+        "duration" : 13615
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "When I click hamburger icon in top nav bar",
+      "uid" : "9bc826af47524301",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826570025,
+        "stop" : 1626826571213,
+        "duration" : 1188
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"displayed\"",
+      "uid" : "82ef148658d01a18",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826571213,
+        "stop" : 1626826583221,
+        "duration" : 12008
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "When I click side menu bar close icon",
+      "uid" : "7cfb8ad3eb055958",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826583221,
+        "stop" : 1626826584466,
+        "duration" : 1245
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"not displayed\"",
+      "uid" : "c822a0c49d536e0d",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826584466,
+        "stop" : 1626826584762,
+        "duration" : 296
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "",
+      "uid" : "9872817d59fce6fd",
+      "parentUid" : "9fe3178f56061762ec8e42ad0afc1fbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826584762,
+        "stop" : 1626826584763,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    } ],
+    "uid" : "9fe3178f56061762ec8e42ad0afc1fbd"
+  }, {
+    "name" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\"",
+    "children" : [ {
+      "name" : "Given I am on campaign page",
+      "uid" : "100d0d9db0482d59",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824255306,
+        "stop" : 1626824285462,
+        "duration" : 30156
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"not displayed\"",
+      "uid" : "a334f9b8d92d9172",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824285462,
+        "stop" : 1626824285956,
+        "duration" : 494
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "When I click hamburger icon in top nav bar",
+      "uid" : "3931f373a048554f",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824285956,
+        "stop" : 1626824289039,
+        "duration" : 3083
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"displayed\"",
+      "uid" : "e909d868e5a21e28",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824289039,
+        "stop" : 1626824306568,
+        "duration" : 17529
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Then I validate main menu item \"Buy\" in side nav bar",
+      "uid" : "917e3f95b847875d",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824306568,
+        "stop" : 1626824306778,
+        "duration" : 210
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "When I click main menu item \"Buy\" in side nav bar",
+      "uid" : "34802b8df6eddeb3",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824306778,
+        "stop" : 1626824308382,
+        "duration" : 1604
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Then I see sub menu drawer with title \"Buy\" is displayed in side nav bar",
+      "uid" : "60485d1f96b64f7f",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824308382,
+        "stop" : 1626824309079,
+        "duration" : 697
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Then I validate sub menu items \"Fleet sales, Used cars,Diplomatic sales, Child seats\" in side nav",
+      "uid" : "604f0b9d903dcba0",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824309079,
+        "stop" : 1626824356064,
+        "duration" : 46985
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "",
+      "uid" : "f64c4e68fd42a384",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824356064,
+        "stop" : 1626824356066,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "1e51b33c30abe871",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826216921,
+        "stop" : 1626826221918,
+        "duration" : 4997
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"not displayed\"",
+      "uid" : "8a167f9cab36d805",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826221919,
+        "stop" : 1626826229937,
+        "duration" : 8018
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "When I click hamburger icon in top nav bar",
+      "uid" : "616392e0c1783816",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826229937,
+        "stop" : 1626826230126,
+        "duration" : 189
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"displayed\"",
+      "uid" : "8016f7276a458622",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826230126,
+        "stop" : 1626826238137,
+        "duration" : 8011
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I validate main menu item \"Buy\" in side nav bar",
+      "uid" : "e8bafae14b826c6",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826238137,
+        "stop" : 1626826238183,
+        "duration" : 46
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "When I click main menu item \"Buy\" in side nav bar",
+      "uid" : "57e3449bae8733a4",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826238183,
+        "stop" : 1626826238842,
+        "duration" : 659
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see sub menu drawer with title \"Buy\" is displayed in side nav bar",
+      "uid" : "eca38e4107f0b0f4",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826238842,
+        "stop" : 1626826238956,
+        "duration" : 114
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I validate sub menu items \"Fleet sales, Used cars,Diplomatic sales, Child seats\" in side nav",
+      "uid" : "72542b3448f8f878",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826238956,
+        "stop" : 1626826272410,
+        "duration" : 33454
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "",
+      "uid" : "f0974055d89be55d",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826272410,
+        "stop" : 1626826272413,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "5afa056c9a36f859",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826584783,
+        "stop" : 1626826614812,
+        "duration" : 30029
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"not displayed\"",
+      "uid" : "898a1ac6c82a6f9a",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826614812,
+        "stop" : 1626826615260,
+        "duration" : 448
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "When I click hamburger icon in top nav bar",
+      "uid" : "f32e61e64adeca55",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826615260,
+        "stop" : 1626826616057,
+        "duration" : 797
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"displayed\"",
+      "uid" : "8c5632d53e39ecde",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826616057,
+        "stop" : 1626826618083,
+        "duration" : 2026
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I validate main menu item \"Buy\" in side nav bar",
+      "uid" : "1b45ded725f00249",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826618083,
+        "stop" : 1626826618525,
+        "duration" : 442
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "When I click main menu item \"Buy\" in side nav bar",
+      "uid" : "ba39f642dac43abe",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826618525,
+        "stop" : 1626826619894,
+        "duration" : 1369
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see sub menu drawer with title \"Buy\" is displayed in side nav bar",
+      "uid" : "cb7d4a248f5a28a0",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826619894,
+        "stop" : 1626826620130,
+        "duration" : 236
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I validate sub menu items \"Fleet sales, Used cars,Diplomatic sales, Child seats\" in side nav",
+      "uid" : "3237bd7e34826616",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826620130,
+        "stop" : 1626826658380,
+        "duration" : 38250
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "",
+      "uid" : "a4b1a5dc47343f75",
+      "parentUid" : "07c86d1b0e97db9e036ab5908889f7b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826658381,
+        "stop" : 1626826658382,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    } ],
+    "uid" : "07c86d1b0e97db9e036ab5908889f7b9"
+  }, {
+    "name" : "Campaign carousel items: Validate carousel items displayed model name \"XC90 Recharge\" and recharge type \"plug-in hybrid\"",
+    "children" : [ {
+      "name" : "Given I am on campaign page",
+      "uid" : "d7c0f3956001e405",
+      "parentUid" : "fb83f96827e808b80515e271dd26fd6a",
+      "status" : "broken",
+      "time" : {
+        "start" : 1626824543134,
+        "stop" : 1626824603216,
+        "duration" : 60082
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "Then I see carousel item displayed with model name \"XC90 Recharge\" and recharge type \"plug-in hybrid\"",
+      "uid" : "4dc5319583a87a21",
+      "parentUid" : "fb83f96827e808b80515e271dd26fd6a",
+      "status" : "unknown",
+      "time" : {
+        "start" : 1626824603216,
+        "stop" : 0,
+        "duration" : -1626824603216
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "",
+      "uid" : "1e32a0aab995b0d6",
+      "parentUid" : "fb83f96827e808b80515e271dd26fd6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626824603217,
+        "stop" : 1626824603220,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.114" ]
+    }, {
+      "name" : "I see carousel item displayed with model name \"XC90 Recharge\" and recharge type \"plug-in hybrid\"",
+      "uid" : "4c7b21064986ba60",
+      "parentUid" : "fb83f96827e808b80515e271dd26fd6a",
+      "status" : "skipped",
+      "time" : {
+        "start" : 1626824603217,
+        "stop" : 1626824603217,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "8e10d42daa33b5fd",
+      "parentUid" : "fb83f96827e808b80515e271dd26fd6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826129351,
+        "stop" : 1626826136302,
+        "duration" : 6951
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see carousel item displayed with model name \"XC90 Recharge\" and recharge type \"plug-in hybrid\"",
+      "uid" : "d096b172baff482c",
+      "parentUid" : "fb83f96827e808b80515e271dd26fd6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826136302,
+        "stop" : 1626826144327,
+        "duration" : 8025
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "",
+      "uid" : "b25e8ba7d97ec701",
+      "parentUid" : "fb83f96827e808b80515e271dd26fd6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826144328,
+        "stop" : 1626826144335,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "7075a0d3c5ce92c",
+      "parentUid" : "fb83f96827e808b80515e271dd26fd6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826459198,
+        "stop" : 1626826467347,
+        "duration" : 8149
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see carousel item displayed with model name \"XC90 Recharge\" and recharge type \"plug-in hybrid\"",
+      "uid" : "444617a8a1edbe0e",
+      "parentUid" : "fb83f96827e808b80515e271dd26fd6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826467347,
+        "stop" : 1626826475366,
+        "duration" : 8019
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "",
+      "uid" : "9513423f5a596182",
+      "parentUid" : "fb83f96827e808b80515e271dd26fd6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826475366,
+        "stop" : 1626826475368,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    } ],
+    "uid" : "fb83f96827e808b80515e271dd26fd6a"
+  }, {
+    "name" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Own\"",
+    "children" : [ {
+      "name" : "Given I am on campaign page",
+      "uid" : "c71607b02975032b",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826272444,
+        "stop" : 1626826276386,
+        "duration" : 3942
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"not displayed\"",
+      "uid" : "4b808e40bd0fd4d7",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826276386,
+        "stop" : 1626826284403,
+        "duration" : 8017
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "When I click hamburger icon in top nav bar",
+      "uid" : "881eba296400ace1",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826284403,
+        "stop" : 1626826284567,
+        "duration" : 164
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"displayed\"",
+      "uid" : "8741662c21d12dd",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826284567,
+        "stop" : 1626826292579,
+        "duration" : 8012
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I validate main menu item \"Own\" in side nav bar",
+      "uid" : "34f388b6aa59ccfe",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826292579,
+        "stop" : 1626826292638,
+        "duration" : 59
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "When I click main menu item \"Own\" in side nav bar",
+      "uid" : "8e6073be49d84a1b",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826292638,
+        "stop" : 1626826293143,
+        "duration" : 505
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see sub menu drawer with title \"Own\" is displayed in side nav bar",
+      "uid" : "9152e69ba161a775",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826293143,
+        "stop" : 1626826293338,
+        "duration" : 195
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I validate sub menu items \"Support, Service & Repair, Accessories, Volvo Recall\" in side nav",
+      "uid" : "7049b23f3748004e",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826293338,
+        "stop" : 1626826326832,
+        "duration" : 33494
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "",
+      "uid" : "bd45b0a593c69ca1",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826326832,
+        "stop" : 1626826326834,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "255ef9a55d488153",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826658394,
+        "stop" : 1626826664851,
+        "duration" : 6457
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"not displayed\"",
+      "uid" : "805b7c4fd13b6141",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826664851,
+        "stop" : 1626826665872,
+        "duration" : 1021
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "When I click hamburger icon in top nav bar",
+      "uid" : "3f4a655dc32f69c1",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826665872,
+        "stop" : 1626826667258,
+        "duration" : 1386
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"displayed\"",
+      "uid" : "f724654690aa32cb",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826667258,
+        "stop" : 1626826668875,
+        "duration" : 1617
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I validate main menu item \"Own\" in side nav bar",
+      "uid" : "5d4a0dd415c4e82e",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826668875,
+        "stop" : 1626826669630,
+        "duration" : 755
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "When I click main menu item \"Own\" in side nav bar",
+      "uid" : "f6df5f372c8865fc",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826669630,
+        "stop" : 1626826671411,
+        "duration" : 1781
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see sub menu drawer with title \"Own\" is displayed in side nav bar",
+      "uid" : "64a85f434b2d22f4",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826671411,
+        "stop" : 1626826671885,
+        "duration" : 474
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I validate sub menu items \"Support, Service & Repair, Accessories, Volvo Recall\" in side nav",
+      "uid" : "1c16ec54a5670ad3",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826671885,
+        "stop" : 1626826710034,
+        "duration" : 38149
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "",
+      "uid" : "f85bff9225d1002c",
+      "parentUid" : "3a1a3df5532bd2641762336b95662166",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826710035,
+        "stop" : 1626826710036,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    } ],
+    "uid" : "3a1a3df5532bd2641762336b95662166"
+  }, {
+    "name" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Why Volvo\"",
+    "children" : [ {
+      "name" : "Given I am on campaign page",
+      "uid" : "530ece962f27672a",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826326857,
+        "stop" : 1626826331090,
+        "duration" : 4233
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"not displayed\"",
+      "uid" : "c33d84e9ffe98bd0",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826331090,
+        "stop" : 1626826339108,
+        "duration" : 8018
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "When I click hamburger icon in top nav bar",
+      "uid" : "e9c4bb976ad481b6",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826339108,
+        "stop" : 1626826339288,
+        "duration" : 180
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"displayed\"",
+      "uid" : "8310a46315acb1cf",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826339288,
+        "stop" : 1626826347304,
+        "duration" : 8016
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I validate main menu item \"Why Volvo\" in side nav bar",
+      "uid" : "c749af251ef15d50",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826347304,
+        "stop" : 1626826347377,
+        "duration" : 73
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "When I click main menu item \"Why Volvo\" in side nav bar",
+      "uid" : "4d7735a3e69c1533",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826347377,
+        "stop" : 1626826348002,
+        "duration" : 625
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see sub menu drawer with title \"Why Volvo\" is displayed in side nav bar",
+      "uid" : "f6919576706f6ce1",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826348003,
+        "stop" : 1626826348210,
+        "duration" : 207
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I validate sub menu items \"Our Story, Our Heritage\" in side nav",
+      "uid" : "ce169ebd7883457b",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826348210,
+        "stop" : 1626826364929,
+        "duration" : 16719
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "",
+      "uid" : "47175bd8a3d98fda",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826364929,
+        "stop" : 1626826364931,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "c02867c213e3ba10",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826710060,
+        "stop" : 1626826714265,
+        "duration" : 4205
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"not displayed\"",
+      "uid" : "7236e6c60793c171",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826714265,
+        "stop" : 1626826715236,
+        "duration" : 971
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "When I click hamburger icon in top nav bar",
+      "uid" : "c062968dd7952ecf",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826715236,
+        "stop" : 1626826715838,
+        "duration" : 602
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"displayed\"",
+      "uid" : "202d469f085c5056",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826715838,
+        "stop" : 1626826717229,
+        "duration" : 1391
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I validate main menu item \"Why Volvo\" in side nav bar",
+      "uid" : "79135d6ca78ab440",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826717229,
+        "stop" : 1626826717624,
+        "duration" : 395
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "When I click main menu item \"Why Volvo\" in side nav bar",
+      "uid" : "3d99934e1df08369",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826717624,
+        "stop" : 1626826718838,
+        "duration" : 1214
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see sub menu drawer with title \"Why Volvo\" is displayed in side nav bar",
+      "uid" : "f726ae83215ba72",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826718838,
+        "stop" : 1626826719146,
+        "duration" : 308
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I validate sub menu items \"Our Story, Our Heritage\" in side nav",
+      "uid" : "80ed1af98781cf5",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826719146,
+        "stop" : 1626826738568,
+        "duration" : 19422
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "",
+      "uid" : "ea7c43f31614e629",
+      "parentUid" : "5dd044d365f698309d234b1675d21086",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826738568,
+        "stop" : 1626826738571,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    } ],
+    "uid" : "5dd044d365f698309d234b1675d21086"
+  }, {
+    "name" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Explore\"",
+    "children" : [ {
+      "name" : "Given I am on campaign page",
+      "uid" : "fc43d3281ddd41b",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826364943,
+        "stop" : 1626826368584,
+        "duration" : 3641
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"not displayed\"",
+      "uid" : "ba0b2c320b2e0150",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826368585,
+        "stop" : 1626826376599,
+        "duration" : 8014
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "When I click hamburger icon in top nav bar",
+      "uid" : "6bba7b6ca5029eaa",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826376599,
+        "stop" : 1626826376757,
+        "duration" : 158
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"displayed\"",
+      "uid" : "d34dcc9b92cd02bb",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826376757,
+        "stop" : 1626826384778,
+        "duration" : 8021
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I validate main menu item \"Explore\" in side nav bar",
+      "uid" : "cf7ce4dce2eb95e2",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826384778,
+        "stop" : 1626826384874,
+        "duration" : 96
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "When I click main menu item \"Explore\" in side nav bar",
+      "uid" : "e446baf9a741bfd8",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826384874,
+        "stop" : 1626826385470,
+        "duration" : 596
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see sub menu drawer with title \"Explore\" is displayed in side nav bar",
+      "uid" : "1a14934170da3ef3",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826385470,
+        "stop" : 1626826385640,
+        "duration" : 170
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I validate sub menu items \"Recharge, Concepts\" in side nav",
+      "uid" : "d559d758214f0cae",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826385640,
+        "stop" : 1626826402383,
+        "duration" : 16743
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "",
+      "uid" : "619f975aced48f54",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826402383,
+        "stop" : 1626826402391,
+        "duration" : 8
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "36c9260ae65cf282",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826738584,
+        "stop" : 1626826742565,
+        "duration" : 3981
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"not displayed\"",
+      "uid" : "2637888d1f72ddba",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826742565,
+        "stop" : 1626826742860,
+        "duration" : 295
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "When I click hamburger icon in top nav bar",
+      "uid" : "89422430cc1f9e15",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826742860,
+        "stop" : 1626826743375,
+        "duration" : 515
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"displayed\"",
+      "uid" : "47d087addb7dbc31",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826743375,
+        "stop" : 1626826744576,
+        "duration" : 1201
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I validate main menu item \"Explore\" in side nav bar",
+      "uid" : "2339d2de6003a7b9",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826744576,
+        "stop" : 1626826744944,
+        "duration" : 368
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "When I click main menu item \"Explore\" in side nav bar",
+      "uid" : "88dac31511c1f4da",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826744944,
+        "stop" : 1626826746043,
+        "duration" : 1099
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see sub menu drawer with title \"Explore\" is displayed in side nav bar",
+      "uid" : "ebf41e3faf1ff09a",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826746043,
+        "stop" : 1626826746331,
+        "duration" : 288
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I validate sub menu items \"Recharge, Concepts\" in side nav",
+      "uid" : "2851268f0e5f4ef9",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826746331,
+        "stop" : 1626826764982,
+        "duration" : 18651
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "",
+      "uid" : "c47e35aa2939edc1",
+      "parentUid" : "a06f5752ca5fa0f47d39e2146d8acbf0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826764982,
+        "stop" : 1626826764984,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    } ],
+    "uid" : "a06f5752ca5fa0f47d39e2146d8acbf0"
+  }, {
+    "name" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\"",
+    "children" : [ {
+      "name" : "Given I am on campaign page",
+      "uid" : "bb45530c23e66905",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826402542,
+        "stop" : 1626826406691,
+        "duration" : 4149
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"not displayed\"",
+      "uid" : "a8f772923080ec19",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826406691,
+        "stop" : 1626826414709,
+        "duration" : 8018
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "When I click hamburger icon in top nav bar",
+      "uid" : "6ca93b3eeffe3bda",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826414709,
+        "stop" : 1626826414917,
+        "duration" : 208
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"displayed\"",
+      "uid" : "68222408e04a1c33",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826414918,
+        "stop" : 1626826422934,
+        "duration" : 8016
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I validate main menu item \"More\" in side nav bar",
+      "uid" : "6a9c44c9dacca080",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826422934,
+        "stop" : 1626826423046,
+        "duration" : 112
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "When I click main menu item \"More\" in side nav bar",
+      "uid" : "155d8d840ed044c2",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826423046,
+        "stop" : 1626826423618,
+        "duration" : 572
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I see sub menu drawer with title \"More\" is displayed in side nav bar",
+      "uid" : "84b9c4896237c19e",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826423618,
+        "stop" : 1626826423787,
+        "duration" : 169
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Then I validate sub menu items \"Company, Contact Us\" in side nav",
+      "uid" : "b2e2a55d6b4787cc",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826423787,
+        "stop" : 1626826440549,
+        "duration" : 16762
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "",
+      "uid" : "fba37bea606217cb",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826440549,
+        "stop" : 1626826440552,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome-91.0.4472.164" ]
+    }, {
+      "name" : "Given I am on campaign page",
+      "uid" : "585971a736bee276",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826764994,
+        "stop" : 1626826769718,
+        "duration" : 4724
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"not displayed\"",
+      "uid" : "f91955859acabc44",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826769719,
+        "stop" : 1626826772725,
+        "duration" : 3006
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "When I click hamburger icon in top nav bar",
+      "uid" : "78353584df3afc7a",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826772725,
+        "stop" : 1626826776059,
+        "duration" : 3334
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see side navigation bar is \"displayed\"",
+      "uid" : "a9907a9963deec5f",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826776059,
+        "stop" : 1626826780282,
+        "duration" : 4223
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I validate main menu item \"More\" in side nav bar",
+      "uid" : "cddd918bac6e7dec",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826780282,
+        "stop" : 1626826782282,
+        "duration" : 2000
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "When I click main menu item \"More\" in side nav bar",
+      "uid" : "d1f2fd6f45b60640",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826782282,
+        "stop" : 1626826787828,
+        "duration" : 5546
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I see sub menu drawer with title \"More\" is displayed in side nav bar",
+      "uid" : "bc61bac0ed0d71f6",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826787828,
+        "stop" : 1626826788583,
+        "duration" : 755
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "Then I validate sub menu items \"Company, Contact Us\" in side nav",
+      "uid" : "a26754d4f404a6b1",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826788583,
+        "stop" : 1626826809830,
+        "duration" : 21247
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    }, {
+      "name" : "",
+      "uid" : "69f02d81bab6f466",
+      "parentUid" : "1f696cec1bf7cc74f0e0efd279c9445d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626826809830,
+        "stop" : 1626826809833,
+        "duration" : 3
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "firefox-90.0" ]
+    } ],
+    "uid" : "1f696cec1bf7cc74f0e0efd279c9445d"
+  } ],
+  "name" : "packages"
+}

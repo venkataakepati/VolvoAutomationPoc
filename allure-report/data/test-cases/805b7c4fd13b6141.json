@@ -1,0 +1,58 @@
+{
+  "uid" : "805b7c4fd13b6141",
+  "name" : "Then I see side navigation bar is \"not displayed\"",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Own\".Then I see side navigation bar is \"not displayed\"",
+  "historyId" : "dbf4b4191bd56652ef5f5acecbc5ce2f",
+  "time" : {
+    "start" : 1626826664851,
+    "stop" : 1626826665872,
+    "duration" : 1021
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Own\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Own\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see side navigation bar is \"not displayed\""
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Own\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-90.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "805b7c4fd13b6141.json",
+  "parameterValues" : [ "firefox-90.0" ]
+}

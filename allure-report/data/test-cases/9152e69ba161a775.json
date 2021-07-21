@@ -1,0 +1,66 @@
+{
+  "uid" : "9152e69ba161a775",
+  "name" : "Then I see sub menu drawer with title \"Own\" is displayed in side nav bar",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Own\".Then I see sub menu drawer with title \"Own\" is displayed in side nav bar",
+  "historyId" : "be1e32a9ffcc83a3de02f42e123b485e",
+  "time" : {
+    "start" : 1626826293143,
+    "stop" : 1626826293338,
+    "duration" : 195
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Own\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Own\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see sub menu drawer with title \"Own\" is displayed in side nav bar"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Own\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "6fe1802dad048d09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825201159,
+        "stop" : 1626825201346,
+        "duration" : 187
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9152e69ba161a775.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

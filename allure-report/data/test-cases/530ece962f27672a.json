@@ -1,0 +1,66 @@
+{
+  "uid" : "530ece962f27672a",
+  "name" : "Given I am on campaign page",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Why Volvo\".Given I am on campaign page",
+  "historyId" : "63e54a1004038d334f22900ee617b7ba",
+  "time" : {
+    "start" : 1626826326857,
+    "stop" : 1626826331090,
+    "duration" : 4233
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Why Volvo\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Why Volvo\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on campaign page"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Why Volvo\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "673a9ee5efae1453",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825234589,
+        "stop" : 1626825238386,
+        "duration" : 3797
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "530ece962f27672a.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

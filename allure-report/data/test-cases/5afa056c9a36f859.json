@@ -1,0 +1,66 @@
+{
+  "uid" : "5afa056c9a36f859",
+  "name" : "Given I am on campaign page",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\".Given I am on campaign page",
+  "historyId" : "a2ede358e5e08b26de3455af29279211",
+  "time" : {
+    "start" : 1626826584783,
+    "stop" : 1626826614812,
+    "duration" : 30029
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Given I am on campaign page"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-90.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f0961df8d55e559b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825516390,
+        "stop" : 1626825523865,
+        "duration" : 7475
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5afa056c9a36f859.json",
+  "parameterValues" : [ "firefox-90.0" ]
+}

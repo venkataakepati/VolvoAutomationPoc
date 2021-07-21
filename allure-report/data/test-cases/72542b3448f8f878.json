@@ -1,0 +1,66 @@
+{
+  "uid" : "72542b3448f8f878",
+  "name" : "Then I validate sub menu items \"Fleet sales, Used cars,Diplomatic sales, Child seats\" in side nav",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\".Then I validate sub menu items \"Fleet sales, Used cars,Diplomatic sales, Child seats\" in side nav",
+  "historyId" : "821386321ac548ff70095b645e1c9225",
+  "time" : {
+    "start" : 1626826238956,
+    "stop" : 1626826272410,
+    "duration" : 33454
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I validate sub menu items \"Fleet sales, Used cars,Diplomatic sales, Child seats\" in side nav"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8dd1f10ca1e8782",
+      "status" : "passed",
+      "time" : {
+        "start" : 1626825160750,
+        "stop" : 1626825194076,
+        "duration" : 33326
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "72542b3448f8f878.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

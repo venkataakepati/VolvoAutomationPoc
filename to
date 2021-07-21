@@ -1,0 +1,866 @@
+
+Execution of 2 workers started at 2021-07-19T22:42:15.087Z
+
+2021-07-19T22:42:15.088Z DEBUG @wdio/utils:initialiseServices: initialise service "chromedriver" as NPM package
+2021-07-19T22:42:15.135Z INFO @wdio/cli:launcher: Run onPrepare hook
+2021-07-19T22:42:15.135Z INFO chromedriver: Start Chromedriver (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/chromedriver/lib/chromedriver/chromedriver) with args --port=9515 --url-base=/
+2021-07-19T22:42:15.151Z INFO chromedriver: Starting ChromeDriver 91.0.4472.101 (af52a90bf87030dd1523486a1cd3ae25c5d76c9b-refs/branch-heads/4472@{#1462}) on port 9515
+2021-07-19T22:42:15.151Z INFO chromedriver: Only local connections are allowed.
+2021-07-19T22:42:15.151Z INFO chromedriver: Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+2021-07-19T22:42:15.153Z INFO chromedriver: ChromeDriver was started successfully.
+2021-07-19T22:42:15.250Z DEBUG @wdio/cli:utils: Finished to run "onPrepare" hook in 115ms
+2021-07-19T22:42:15.252Z INFO @wdio/cli:launcher: Run onWorkerStart hook
+2021-07-19T22:42:15.252Z INFO @wdio/cli:launcher: Run onWorkerStart hook
+2021-07-19T22:42:15.252Z DEBUG @wdio/cli:utils: Finished to run "onWorkerStart" hook in 0ms
+2021-07-19T22:42:15.253Z DEBUG @wdio/cli:utils: Finished to run "onWorkerStart" hook in 1ms
+2021-07-19T22:42:15.253Z INFO @wdio/local-runner: Start worker 0-0 with arg: run,wdio.conf.js,--,run,the,tests
+2021-07-19T22:42:15.259Z INFO @wdio/local-runner: Start worker 0-1 with arg: run,wdio.conf.js,--,run,the,tests
+[0-1] [90m2021-07-19T22:42:15.834Z[39m [96mINFO[39m [97m@wdio/local-runner[39m: Run worker command: run
+[0-0] [90m2021-07-19T22:42:15.834Z[39m [96mINFO[39m [97m@wdio/local-runner[39m: Run worker command: run
+[0-0] [90m2021-07-19T22:42:16.018Z[39m [32mDEBUG[39m [97m@wdio/config:utils[39m: Found 'ts-node' package, auto-compiling TypeScript files
+[0-1] [90m2021-07-19T22:42:16.019Z[39m [32mDEBUG[39m [97m@wdio/config:utils[39m: Found 'ts-node' package, auto-compiling TypeScript files
+[0-0] [90m2021-07-19T22:42:16.020Z[39m [32mDEBUG[39m [97m@wdio/local-runner:utils[39m: init remote session
+[0-1] [90m2021-07-19T22:42:16.021Z[39m [32mDEBUG[39m [97m@wdio/local-runner:utils[39m: init remote session
+[0-0] [90m2021-07-19T22:42:16.022Z[39m [32mDEBUG[39m [97m@wdio/utils:initialiseServices[39m: initialise service "chromedriver" as NPM package
+[0-1] [90m2021-07-19T22:42:16.023Z[39m [32mDEBUG[39m [97m@wdio/utils:initialiseServices[39m: initialise service "chromedriver" as NPM package
+[0-1] RUNNING in chrome - /features/menuBar.feature
+[0-0] RUNNING in chrome - /features/CampaignCarouselItems.feature
+[0-1] [90m2021-07-19T22:42:16.514Z[39m [32mDEBUG[39m [97m@wdio/local-runner:utils[39m: init remote session
+[0-1] [90m2021-07-19T22:42:16.515Z[39m [96mINFO[39m [97mwebdriver[39m: Initiate new session using the WebDriver protocol
+[0-0] [90m2021-07-19T22:42:16.514Z[39m [32mDEBUG[39m [97m@wdio/local-runner:utils[39m: init remote session
+[0-0] [90m2021-07-19T22:42:16.515Z[39m [96mINFO[39m [97mwebdriver[39m: Initiate new session using the WebDriver protocol
+[0-1] [90m2021-07-19T22:42:16.516Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session
+[0-0] [90m2021-07-19T22:42:16.516Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session
+[0-1] [90m2021-07-19T22:42:16.516Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-1]   capabilities: {
+[0-1]     alwaysMatch: { browserName: 'chrome', acceptInsecureCerts: true },
+[0-1]     firstMatch: [ {} ]
+[0-1]   },
+[0-1]   desiredCapabilities: { browserName: 'chrome', acceptInsecureCerts: true }
+[0-1] }
+[0-0] [90m2021-07-19T22:42:16.516Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-0]   capabilities: {
+[0-0]     alwaysMatch: { browserName: 'chrome', acceptInsecureCerts: true },
+[0-0]     firstMatch: [ {} ]
+[0-0]   },
+[0-0]   desiredCapabilities: { browserName: 'chrome', acceptInsecureCerts: true }
+[0-0] }
+[0-1] [90m2021-07-19T22:42:17.784Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "div[data-autoid="nav:sideNavigationContainer"]")
+[0-1] [90m2021-07-19T22:42:17.784Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/2d17d237d9662d0f192029bcaa3ac00d/element
+[0-1] [90m2021-07-19T22:42:17.784Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-1]   using: 'css selector',
+[0-1]   value: 'div[data-autoid="nav:sideNavigationContainer"]'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.785Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "button[data-autoid="nav:siteNavCloseIcon"]")
+[0-1] [90m2021-07-19T22:42:17.785Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/2d17d237d9662d0f192029bcaa3ac00d/element
+[0-1] [90m2021-07-19T22:42:17.785Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-1]   using: 'css selector',
+[0-1]   value: 'button[data-autoid="nav:siteNavCloseIcon"]'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.785Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElements("css selector", "div[data-autoid="nav:sideNavLinksMenu"] em")
+[0-1] [90m2021-07-19T22:42:17.786Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/2d17d237d9662d0f192029bcaa3ac00d/elements
+[0-1] [90m2021-07-19T22:42:17.786Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-1]   using: 'css selector',
+[0-1]   value: 'div[data-autoid="nav:sideNavLinksMenu"] em'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.786Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElements("css selector", "div[data-autoid="nav:sideNavLinksMenuDraw"] em")
+[0-1] [90m2021-07-19T22:42:17.786Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/2d17d237d9662d0f192029bcaa3ac00d/elements
+[0-1] [90m2021-07-19T22:42:17.786Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-1]   using: 'css selector',
+[0-1]   value: 'div[data-autoid="nav:sideNavLinksMenuDraw"] em'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.787Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "button[aria-label="Go back in Site Navigation"]")
+[0-1] [90m2021-07-19T22:42:17.787Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/2d17d237d9662d0f192029bcaa3ac00d/element
+[0-1] [90m2021-07-19T22:42:17.787Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-1]   using: 'css selector',
+[0-1]   value: 'button[aria-label="Go back in Site Navigation"]'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.787Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "p[data-autoid="nav:sideNavTitle"]")
+[0-1] [90m2021-07-19T22:42:17.787Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/2d17d237d9662d0f192029bcaa3ac00d/element
+[0-1] [90m2021-07-19T22:42:17.787Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m { using: 'css selector', value: 'p[data-autoid="nav:sideNavTitle"]' }
+[0-1] [90m2021-07-19T22:42:17.788Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "div#site-nav-topbar-wrapper nav")
+[0-1] [90m2021-07-19T22:42:17.788Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/2d17d237d9662d0f192029bcaa3ac00d/element
+[0-1] [90m2021-07-19T22:42:17.788Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m { using: 'css selector', value: 'div#site-nav-topbar-wrapper nav' }
+[0-1] [90m2021-07-19T22:42:17.788Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "div#site-nav-topbar-wrapper nav a[data-autoid="nav:siteNavLogoSmall"]")
+[0-1] [90m2021-07-19T22:42:17.788Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/2d17d237d9662d0f192029bcaa3ac00d/element
+[0-1] [90m2021-07-19T22:42:17.788Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-1]   using: 'css selector',
+[0-1]   value: 'div#site-nav-topbar-wrapper nav a[data-autoid="nav:siteNavLogoSmall"]'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.789Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "button[data-autoid="nav: siteNavHamburgerIcon"]")
+[0-1] [90m2021-07-19T22:42:17.789Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/2d17d237d9662d0f192029bcaa3ac00d/element
+[0-1] [90m2021-07-19T22:42:17.789Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-1]   using: 'css selector',
+[0-1]   value: 'button[data-autoid="nav: siteNavHamburgerIcon"]'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.789Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "div[data-component= "ProductListCarousel"]")
+[0-1] [90m2021-07-19T22:42:17.789Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/2d17d237d9662d0f192029bcaa3ac00d/element
+[0-1] [90m2021-07-19T22:42:17.789Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-1]   using: 'css selector',
+[0-1]   value: 'div[data-component= "ProductListCarousel"]'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.789Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElements("css selector", "div[data-autoid="springCarouselPane:carouselItem"]")
+[0-1] [90m2021-07-19T22:42:17.790Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/2d17d237d9662d0f192029bcaa3ac00d/elements
+[0-1] [90m2021-07-19T22:42:17.790Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-1]   using: 'css selector',
+[0-1]   value: 'div[data-autoid="springCarouselPane:carouselItem"]'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.820Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "nav[id = "nav: sideNavigation"]>div")
+[0-1] [90m2021-07-19T22:42:17.820Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/2d17d237d9662d0f192029bcaa3ac00d/element
+[0-1] [90m2021-07-19T22:42:17.820Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m { using: 'css selector', value: 'nav[id = "nav: sideNavigation"]>div' }
+[0-1] [90m2021-07-19T22:42:17.833Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-1]   error: 'no such element',
+[0-1]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"div[data-autoid="nav:sideNavigationContainer"]"}\n' +
+[0-1]     '  (Session info: chrome=91.0.4472.164)',
+[0-1]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-1]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-1]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-1]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-1]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-1]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-1]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-1]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-1]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-1]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-1]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-1]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-1]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-1]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-1]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-1]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-1]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-1]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-1]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-1]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.839Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m []
+[0-1] [90m2021-07-19T22:42:17.844Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-1]   error: 'no such element',
+[0-1]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"button[data-autoid="nav:siteNavCloseIcon"]"}\n' +
+[0-1]     '  (Session info: chrome=91.0.4472.164)',
+[0-1]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-1]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-1]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-1]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-1]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-1]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-1]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-1]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-1]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-1]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-1]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-1]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-1]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-1]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-1]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-1]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-1]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-1]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-1]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-1]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.850Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-1]   error: 'no such element',
+[0-1]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"button[aria-label="Go back in Site Navigation"]"}\n' +
+[0-1]     '  (Session info: chrome=91.0.4472.164)',
+[0-1]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-1]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-1]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-1]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-1]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-1]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-1]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-1]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-1]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-1]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-1]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-1]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-1]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-1]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-1]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-1]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-1]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-1]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-1]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-1]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.855Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m []
+[0-1] [90m2021-07-19T22:42:17.862Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-1]   error: 'no such element',
+[0-1]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"div#site-nav-topbar-wrapper nav"}\n' +
+[0-1]     '  (Session info: chrome=91.0.4472.164)',
+[0-1]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-1]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-1]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-1]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-1]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-1]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-1]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-1]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-1]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-1]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-1]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-1]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-1]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-1]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-1]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-1]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-1]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-1]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-1]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-1]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-1] }
+[0-1] Error in "0: I am on campaign page"
+TypeError: this.productListContainer.isDisplayed is not a function
+    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)
+    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)
+    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)
+    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)
+[0-1] Error in "1: I am on campaign page"
+TypeError: this.productListContainer.isDisplayed is not a function
+    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)
+    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)
+    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)
+    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)
+[0-1] Error in "2: I am on campaign page"
+TypeError: this.productListContainer.isDisplayed is not a function
+    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)
+    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)
+    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)
+    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)
+[0-1] Error in "3: I am on campaign page"
+TypeError: this.productListContainer.isDisplayed is not a function
+    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)
+    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)
+    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)
+    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)
+[0-1] Error in "4: I am on campaign page"
+TypeError: this.productListContainer.isDisplayed is not a function
+    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)
+    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)
+    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)
+    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)
+[0-1] Error in "5: I am on campaign page"
+TypeError: this.productListContainer.isDisplayed is not a function
+    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)
+    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)
+    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)
+    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)
+[0-0] [90m2021-07-19T22:42:17.933Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "div[data-autoid="nav:sideNavigationContainer"]")
+[0-0] [90m2021-07-19T22:42:17.933Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/1ff04c422ea2e92e5c3e37017cdbf4f2/element
+[0-0] [90m2021-07-19T22:42:17.933Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-0]   using: 'css selector',
+[0-0]   value: 'div[data-autoid="nav:sideNavigationContainer"]'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:17.934Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "button[data-autoid="nav:siteNavCloseIcon"]")
+[0-0] [90m2021-07-19T22:42:17.934Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/1ff04c422ea2e92e5c3e37017cdbf4f2/element
+[0-0] [90m2021-07-19T22:42:17.934Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-0]   using: 'css selector',
+[0-0]   value: 'button[data-autoid="nav:siteNavCloseIcon"]'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:17.935Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElements("css selector", "div[data-autoid="nav:sideNavLinksMenu"] em")
+[0-0] [90m2021-07-19T22:42:17.935Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/1ff04c422ea2e92e5c3e37017cdbf4f2/elements
+[0-0] [90m2021-07-19T22:42:17.935Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-0]   using: 'css selector',
+[0-0]   value: 'div[data-autoid="nav:sideNavLinksMenu"] em'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:17.935Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElements("css selector", "div[data-autoid="nav:sideNavLinksMenuDraw"] em")
+[0-0] [90m2021-07-19T22:42:17.935Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/1ff04c422ea2e92e5c3e37017cdbf4f2/elements
+[0-0] [90m2021-07-19T22:42:17.935Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-0]   using: 'css selector',
+[0-0]   value: 'div[data-autoid="nav:sideNavLinksMenuDraw"] em'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:17.936Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "button[aria-label="Go back in Site Navigation"]")
+[0-0] [90m2021-07-19T22:42:17.936Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/1ff04c422ea2e92e5c3e37017cdbf4f2/element
+[0-0] [90m2021-07-19T22:42:17.936Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-0]   using: 'css selector',
+[0-0]   value: 'button[aria-label="Go back in Site Navigation"]'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:17.936Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "p[data-autoid="nav:sideNavTitle"]")
+[0-0] [90m2021-07-19T22:42:17.936Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/1ff04c422ea2e92e5c3e37017cdbf4f2/element
+[0-0] [90m2021-07-19T22:42:17.936Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m { using: 'css selector', value: 'p[data-autoid="nav:sideNavTitle"]' }
+[0-0] [90m2021-07-19T22:42:17.937Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "div#site-nav-topbar-wrapper nav")
+[0-0] [90m2021-07-19T22:42:17.937Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/1ff04c422ea2e92e5c3e37017cdbf4f2/element
+[0-0] [90m2021-07-19T22:42:17.937Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m { using: 'css selector', value: 'div#site-nav-topbar-wrapper nav' }
+[0-0] [90m2021-07-19T22:42:17.937Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "div#site-nav-topbar-wrapper nav a[data-autoid="nav:siteNavLogoSmall"]")
+[0-0] [90m2021-07-19T22:42:17.937Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/1ff04c422ea2e92e5c3e37017cdbf4f2/element
+[0-0] [90m2021-07-19T22:42:17.937Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-0]   using: 'css selector',
+[0-0]   value: 'div#site-nav-topbar-wrapper nav a[data-autoid="nav:siteNavLogoSmall"]'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:17.938Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "button[data-autoid="nav: siteNavHamburgerIcon"]")
+[0-0] [90m2021-07-19T22:42:17.938Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/1ff04c422ea2e92e5c3e37017cdbf4f2/element
+[0-0] [90m2021-07-19T22:42:17.938Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-0]   using: 'css selector',
+[0-0]   value: 'button[data-autoid="nav: siteNavHamburgerIcon"]'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:17.938Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "div[data-component= "ProductListCarousel"]")
+[0-0] [90m2021-07-19T22:42:17.938Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/1ff04c422ea2e92e5c3e37017cdbf4f2/element
+[0-0] [90m2021-07-19T22:42:17.938Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-0]   using: 'css selector',
+[0-0]   value: 'div[data-component= "ProductListCarousel"]'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:17.939Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElements("css selector", "div[data-autoid="springCarouselPane:carouselItem"]")
+[0-0] [90m2021-07-19T22:42:17.939Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/1ff04c422ea2e92e5c3e37017cdbf4f2/elements
+[0-0] [90m2021-07-19T22:42:17.939Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m {
+[0-0]   using: 'css selector',
+[0-0]   value: 'div[data-autoid="springCarouselPane:carouselItem"]'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:17.969Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m findElement("css selector", "nav[id = "nav: sideNavigation"]>div")
+[0-0] [90m2021-07-19T22:42:17.969Z[39m [96mINFO[39m [97mwebdriver[39m: [POST] http://localhost:9515/session/1ff04c422ea2e92e5c3e37017cdbf4f2/element
+[0-0] [90m2021-07-19T22:42:17.969Z[39m [96mINFO[39m [97mwebdriver[39m: [33mDATA[39m { using: 'css selector', value: 'nav[id = "nav: sideNavigation"]>div' }
+[0-0] [90m2021-07-19T22:42:17.981Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-0]   error: 'no such element',
+[0-0]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"div[data-autoid="nav:sideNavigationContainer"]"}\n' +
+[0-0]     '  (Session info: chrome=91.0.4472.164)',
+[0-0]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-0]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-0]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-0]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-0]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-0]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-0]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-0]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-0]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-0]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-0]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-0]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-0]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-0]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-0]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-0]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-0]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-0]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-0]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-0]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:17.987Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m []
+[0-0] Error in "0: I am on campaign page"
+TypeError: this.productListContainer.isDisplayed is not a function
+    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)
+    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)
+    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)
+    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)
+[0-0] Error in "1: I am on campaign page"
+TypeError: this.productListContainer.isDisplayed is not a function
+    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)
+    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)
+    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)
+    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)
+[0-0] Error in "1: I validate sub menu items "" in side nav Background: Background name"
+Step "I validate sub menu items "" in side nav Background: Background name" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.
+	at Feature(/Users/sreekanth/Downloads/VolvoAutomationTest/features/CampaignCarouselItems.feature):1:1
+	at Scenario(Validate carousel items navigation):12:5
+	at Step(I validate sub menu items "" in side nav Background: Background name):20:9
+
+[0-1] [90m2021-07-19T22:42:17.868Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-1]   error: 'no such element',
+[0-1]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"p[data-autoid="nav:sideNavTitle"]"}\n' +
+[0-1]     '  (Session info: chrome=91.0.4472.164)',
+[0-1]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-1]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-1]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-1]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-1]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-1]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-1]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-1]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-1]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-1]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-1]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-1]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-1]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-1]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-1]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-1]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-1]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-1]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-1]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-1]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.872Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m deleteSession()
+[0-1] [90m2021-07-19T22:42:17.872Z[39m [96mINFO[39m [97mwebdriver[39m: [DELETE] http://localhost:9515/session/2d17d237d9662d0f192029bcaa3ac00d
+[0-1] [90m2021-07-19T22:42:17.874Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-1]   error: 'no such element',
+[0-1]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"button[data-autoid="nav: siteNavHamburgerIcon"]"}\n' +
+[0-1]     '  (Session info: chrome=91.0.4472.164)',
+[0-1]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-1]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-1]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-1]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-1]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-1]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-1]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-1]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-1]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-1]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-1]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-1]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-1]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-1]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-1]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-1]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-1]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-1]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-1]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-1]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.881Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-1]   error: 'no such element',
+[0-1]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"div#site-nav-topbar-wrapper nav a[data-autoid="nav:siteNavLogoSmall"]"}\n' +
+[0-1]     '  (Session info: chrome=91.0.4472.164)',
+[0-1]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-1]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-1]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-1]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-1]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-1]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-1]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-1]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-1]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-1]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-1]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-1]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-1]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-1]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-1]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-1]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-1]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-1]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-1]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-1]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.887Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m []
+[0-1] [90m2021-07-19T22:42:17.894Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-1]   error: 'no such element',
+[0-1]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"div[data-component= "ProductListCarousel"]"}\n' +
+[0-1]     '  (Session info: chrome=91.0.4472.164)',
+[0-1]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-1]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-1]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-1]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-1]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-1]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-1]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-1]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-1]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-1]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-1]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-0] [90m2021-07-19T22:42:17.992Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-0]   error: 'no such element',
+[0-0]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"button[data-autoid="nav:siteNavCloseIcon"]"}\n' +
+[0-0]     '  (Session info: chrome=91.0.4472.164)',
+[0-0]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-0]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-0]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-0]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-0]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-0]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-0]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-0]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-0]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-0]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-0]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-0]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-0]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-0]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-0]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-0]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-0]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-0]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-0]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-0]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:17.997Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-0]   error: 'no such element',
+[0-0]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"button[aria-label="Go back in Site Navigation"]"}\n' +
+[0-0]     '  (Session info: chrome=91.0.4472.164)',
+[0-0]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-0]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-0]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-0]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-0]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-0]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-0]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-0]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-0]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-0]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-0]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-0]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-0]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-0]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-0]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-0]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-0]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-0]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-0]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-0]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:18.003Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m []
+[0-0] [90m2021-07-19T22:42:18.006Z[39m [96mINFO[39m [97mwebdriver[39m: [35mCOMMAND[39m deleteSession()
+[0-0] [90m2021-07-19T22:42:18.006Z[39m [96mINFO[39m [97mwebdriver[39m: [DELETE] http://localhost:9515/session/1ff04c422ea2e92e5c3e37017cdbf4f2
+[0-0] [90m2021-07-19T22:42:18.009Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-0]   error: 'no such element',
+[0-0]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"div#site-nav-topbar-wrapper nav"}\n' +
+[0-0]     '  (Session info: chrome=91.0.4472.164)',
+[0-0]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-0]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-0]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-0]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-0]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-0]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-0]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-0]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-0]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-0]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-0]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-0]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-0]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-0]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-0]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-0]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-0]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-0]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-0]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-0]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:18.015Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-0]   error: 'no such element',
+[0-0]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"p[data-autoid="nav:sideNavTitle"]"}\n' +
+[0-0]     '  (Session info: chrome=91.0.4472.164)',
+[0-0]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-0]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-0]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-0]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-0]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-0]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-0]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-0]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-0]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-0]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-0]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-0]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-1]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-1]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-1]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-1]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-1]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-1]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-1]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-1]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-1]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-1] }
+[0-1] [90m2021-07-19T22:42:17.900Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-1]   error: 'no such element',
+[0-1]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"nav[id = "nav: sideNavigation"]>div"}\n' +
+[0-1]     '  (Session info: chrome=91.0.4472.164)',
+[0-1]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-1]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-1]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-1]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-1]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-1]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-1]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-1]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-1]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-1]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-1]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-1]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-1]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-1]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-1]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-1]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-1]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-1]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-1]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-1]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-1] }
+[0-0]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-0]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-0]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-0]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-0]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-0]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-0]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-0]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:18.022Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-0]   error: 'no such element',
+[0-0]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"button[data-autoid="nav: siteNavHamburgerIcon"]"}\n' +
+[0-0]     '  (Session info: chrome=91.0.4472.164)',
+[0-0]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-0]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-0]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-0]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-0]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-0]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-0]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-0]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-0]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-0]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-0]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-0]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-0]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-0]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-0]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-0]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-0]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-0]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-0]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-0]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:18.028Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-0]   error: 'no such element',
+[0-0]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"div#site-nav-topbar-wrapper nav a[data-autoid="nav:siteNavLogoSmall"]"}\n' +
+[0-0]     '  (Session info: chrome=91.0.4472.164)',
+[0-0]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-0]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-0]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-0]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-0]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-0]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-0]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-0]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-0]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-0]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-0]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-0]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-0]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-0]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-0]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-0]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-0]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-0]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-0]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-0]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:18.034Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m []
+[0-0] [90m2021-07-19T22:42:18.040Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-0]   error: 'no such element',
+[0-0]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"div[data-component= "ProductListCarousel"]"}\n' +
+[0-0]     '  (Session info: chrome=91.0.4472.164)',
+[0-0]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-0]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-0]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-0]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-0]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-0]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-0]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-0]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-0]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-0]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-0]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-0]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-0]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-0]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-0]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-0]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-0]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-0]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-0]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-0]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-0] }
+[0-0] [90m2021-07-19T22:42:18.047Z[39m [96mINFO[39m [97mwebdriver[39m: [36mRESULT[39m {
+[0-0]   error: 'no such element',
+[0-0]   message: 'no such element: Unable to locate element: {"method":"css selector","selector":"nav[id = "nav: sideNavigation"]>div"}\n' +
+[0-0]     '  (Session info: chrome=91.0.4472.164)',
+[0-0]   stacktrace: '0   chromedriver                        0x00000001066f7649 chromedriver + 2741833\n' +
+[0-0]     '1   chromedriver                        0x0000000106dadfb3 chromedriver + 9781171\n' +
+[0-0]     '2   chromedriver                        0x0000000106484308 chromedriver + 172808\n' +
+[0-0]     '3   chromedriver                        0x00000001064b841b chromedriver + 386075\n' +
+[0-0]     '4   chromedriver                        0x00000001064e90c4 chromedriver + 585924\n' +
+[0-0]     '5   chromedriver                        0x00000001064d559d chromedriver + 505245\n' +
+[0-0]     '6   chromedriver                        0x00000001064e6e94 chromedriver + 577172\n' +
+[0-0]     '7   chromedriver                        0x00000001064d5863 chromedriver + 505955\n' +
+[0-0]     '8   chromedriver                        0x00000001064abef1 chromedriver + 335601\n' +
+[0-0]     '9   chromedriver                        0x00000001064ad125 chromedriver + 340261\n' +
+[0-0]     '10  chromedriver                        0x00000001066be75c chromedriver + 2508636\n' +
+[0-0]     '11  chromedriver                        0x00000001066d1686 chromedriver + 2586246\n' +
+[0-0]     '12  chromedriver                        0x00000001066a3b51 chromedriver + 2399057\n' +
+[0-0]     '13  chromedriver                        0x00000001066d2a5f chromedriver + 2591327\n' +
+[0-0]     '14  chromedriver                        0x00000001066b46ec chromedriver + 2467564\n' +
+[0-0]     '15  chromedriver                        0x00000001066ec2d8 chromedriver + 2695896\n' +
+[0-0]     '16  chromedriver                        0x00000001066ec46b chromedriver + 2696299\n' +
+[0-0]     '17  chromedriver                        0x00000001066fc558 chromedriver + 2762072\n' +
+[0-0]     '18  libsystem_pthread.dylib             0x00007fff6d4b8109 _pthread_start + 148\n' +
+[0-0]     '19  libsystem_pthread.dylib             0x00007fff6d4b3b8b thread_start + 15\n'
+[0-0] }
+2021-07-19T22:42:18.173Z DEBUG @wdio/local-runner: Runner 0-1 finished with exit code 1
+[0-1] FAILED in chrome - /features/menuBar.feature
+2021-07-19T22:42:18.318Z DEBUG @wdio/local-runner: Runner 0-0 finished with exit code 1
+[0-0] FAILED in chrome - /features/CampaignCarouselItems.feature
+2021-07-19T22:42:18.318Z INFO @wdio/cli:launcher: Run onComplete hook
+2021-07-19T22:42:18.318Z DEBUG @wdio/cli:utils: Finished to run "onComplete" hook in 0ms
+
+ "spec" Reporter:
+------------------------------------------------------------------
+[chrome 91.0.4472.164 mac os x #0-1] Running: chrome (v91.0.4472.164) on mac os x
+[chrome 91.0.4472.164 mac os x #0-1] Session ID: 2d17d237d9662d0f192029bcaa3ac00d
+[chrome 91.0.4472.164 mac os x #0-1]
+[chrome 91.0.4472.164 mac os x #0-1] » /features/menuBar.feature
+[chrome 91.0.4472.164 mac os x #0-1] Campaign page menu bar and menu items items
+[chrome 91.0.4472.164 mac os x #0-1] Validate Navigation Side bar show hide
+[chrome 91.0.4472.164 mac os x #0-1]    [31m✖[39m Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see side navigation bar is "not displayed"
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I click hamburger icon in top nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see side navigation bar is "displayed"
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I click side menu bar close icon
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see side navigation bar is "not displayed"
+[chrome 91.0.4472.164 mac os x #0-1]
+[chrome 91.0.4472.164 mac os x #0-1] Validate Navigation Side bar menu items
+[chrome 91.0.4472.164 mac os x #0-1]    [31m✖[39m Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see side navigation bar is "not displayed"
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I click hamburger icon in top nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see side navigation bar is "displayed"
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I validate main menu item "" in side nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I click main menu item "" in side nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see sub menu drawer with title "" is displayed in side nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I validate sub menu items "" in side nav
+[chrome 91.0.4472.164 mac os x #0-1]
+[chrome 91.0.4472.164 mac os x #0-1] Validate Navigation Side bar menu items
+[chrome 91.0.4472.164 mac os x #0-1]    [31m✖[39m Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see side navigation bar is "not displayed"
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I click hamburger icon in top nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see side navigation bar is "displayed"
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I validate main menu item "" in side nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I click main menu item "" in side nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see sub menu drawer with title "" is displayed in side nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I validate sub menu items "" in side nav
+[chrome 91.0.4472.164 mac os x #0-1]
+[chrome 91.0.4472.164 mac os x #0-1] Validate Navigation Side bar menu items
+[chrome 91.0.4472.164 mac os x #0-1]    [31m✖[39m Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see side navigation bar is "not displayed"
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I click hamburger icon in top nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see side navigation bar is "displayed"
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I validate main menu item "" in side nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I click main menu item "" in side nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see sub menu drawer with title "" is displayed in side nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I validate sub menu items "" in side nav
+[chrome 91.0.4472.164 mac os x #0-1]
+[chrome 91.0.4472.164 mac os x #0-1] Validate Navigation Side bar menu items
+[chrome 91.0.4472.164 mac os x #0-1]    [31m✖[39m Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see side navigation bar is "not displayed"
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I click hamburger icon in top nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see side navigation bar is "displayed"
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I validate main menu item "" in side nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I click main menu item "" in side nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see sub menu drawer with title "" is displayed in side nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I validate sub menu items "" in side nav
+[chrome 91.0.4472.164 mac os x #0-1]
+[chrome 91.0.4472.164 mac os x #0-1] Validate Navigation Side bar menu items
+[chrome 91.0.4472.164 mac os x #0-1]    [31m✖[39m Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see side navigation bar is "not displayed"
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I click hamburger icon in top nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see side navigation bar is "displayed"
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I validate main menu item "" in side nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I click main menu item "" in side nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I see sub menu drawer with title "" is displayed in side nav bar
+[chrome 91.0.4472.164 mac os x #0-1]    [36m-[39m I validate sub menu items "" in side nav
+[chrome 91.0.4472.164 mac os x #0-1]
+[chrome 91.0.4472.164 mac os x #0-1] [31m6 failing (740ms)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [36m40 skipped[39m
+[chrome 91.0.4472.164 mac os x #0-1]
+[chrome 91.0.4472.164 mac os x #0-1] 1) Validate Navigation Side bar show hide Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-1] [31mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)[39m
+[chrome 91.0.4472.164 mac os x #0-1]
+[chrome 91.0.4472.164 mac os x #0-1] 2) Validate Navigation Side bar menu items Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-1] [31mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)[39m
+[chrome 91.0.4472.164 mac os x #0-1]
+[chrome 91.0.4472.164 mac os x #0-1] 3) Validate Navigation Side bar menu items Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-1] [31mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)[39m
+[chrome 91.0.4472.164 mac os x #0-1]
+[chrome 91.0.4472.164 mac os x #0-1] 4) Validate Navigation Side bar menu items Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-1] [31mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)[39m
+[chrome 91.0.4472.164 mac os x #0-1]
+[chrome 91.0.4472.164 mac os x #0-1] 5) Validate Navigation Side bar menu items Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-1] [31mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)[39m
+[chrome 91.0.4472.164 mac os x #0-1]
+[chrome 91.0.4472.164 mac os x #0-1] 6) Validate Navigation Side bar menu items Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-1] [31mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)[39m
+[chrome 91.0.4472.164 mac os x #0-1] [90m    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)[39m
+------------------------------------------------------------------
+[chrome 91.0.4472.164 mac os x #0-0] Running: chrome (v91.0.4472.164) on mac os x
+[chrome 91.0.4472.164 mac os x #0-0] Session ID: 1ff04c422ea2e92e5c3e37017cdbf4f2
+[chrome 91.0.4472.164 mac os x #0-0]
+[chrome 91.0.4472.164 mac os x #0-0] » /features/CampaignCarouselItems.feature
+[chrome 91.0.4472.164 mac os x #0-0] Campaign carousel items
+[chrome 91.0.4472.164 mac os x #0-0] Validate carousel items displayed
+[chrome 91.0.4472.164 mac os x #0-0]    [31m✖[39m Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-0]    [36m-[39m I see side navigation bar is "not displayed"
+[chrome 91.0.4472.164 mac os x #0-0]    [36m-[39m I click hamburger icon in top nav bar
+[chrome 91.0.4472.164 mac os x #0-0]    [36m-[39m I see side navigation bar is "displayed"
+[chrome 91.0.4472.164 mac os x #0-0]    [36m-[39m I click side menu bar close icon
+[chrome 91.0.4472.164 mac os x #0-0]    [36m-[39m I see side navigation bar is "not displayed"
+[chrome 91.0.4472.164 mac os x #0-0]
+[chrome 91.0.4472.164 mac os x #0-0] Validate carousel items navigation
+[chrome 91.0.4472.164 mac os x #0-0]    [31m✖[39m Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-0]    [36m-[39m I see side navigation bar is "not displayed"
+[chrome 91.0.4472.164 mac os x #0-0]    [36m-[39m I click hamburger icon in top nav bar
+[chrome 91.0.4472.164 mac os x #0-0]    [36m-[39m I see side navigation bar is "displayed"
+[chrome 91.0.4472.164 mac os x #0-0]    [36m-[39m I validate main menu item "" in side nav bar
+[chrome 91.0.4472.164 mac os x #0-0]    [36m-[39m I click main menu item "" in side nav bar
+[chrome 91.0.4472.164 mac os x #0-0]    [36m-[39m I see sub menu drawer with title "" is displayed in side nav bar
+[chrome 91.0.4472.164 mac os x #0-0]    [31m✖[39m Then I validate sub menu items "" in side nav Background: Background name
+[chrome 91.0.4472.164 mac os x #0-0]
+[chrome 91.0.4472.164 mac os x #0-0] [31m3 failing (714ms)[39m
+[chrome 91.0.4472.164 mac os x #0-0] [36m11 skipped[39m
+[chrome 91.0.4472.164 mac os x #0-0]
+[chrome 91.0.4472.164 mac os x #0-0] 1) Validate carousel items displayed Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-0] [31mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-0] [90mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-0] [90m    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)[39m
+[chrome 91.0.4472.164 mac os x #0-0] [90m    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)[39m
+[chrome 91.0.4472.164 mac os x #0-0] [90m    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)[39m
+[chrome 91.0.4472.164 mac os x #0-0] [90m    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)[39m
+[chrome 91.0.4472.164 mac os x #0-0]
+[chrome 91.0.4472.164 mac os x #0-0] 2) Validate carousel items navigation Given I am on campaign page
+[chrome 91.0.4472.164 mac os x #0-0] [31mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-0] [90mTypeError: this.productListContainer.isDisplayed is not a function[39m
+[chrome 91.0.4472.164 mac os x #0-0] [90m    at CampaignPage.isPageDisplayed (/Users/sreekanth/Downloads/VolvoAutomationTest/pageobjects/campaign.page.js:14:48)[39m
+[chrome 91.0.4472.164 mac os x #0-0] [90m    at World.<anonymous> (/Users/sreekanth/Downloads/VolvoAutomationTest/step-definitions/campaign.steps.js:9:31)[39m
+[chrome 91.0.4472.164 mac os x #0-0] [90m    at World.executeAsync (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/shim.js:136:25)[39m
+[chrome 91.0.4472.164 mac os x #0-0] [90m    at World.testFrameworkFnWrapper (/Users/sreekanth/Downloads/VolvoAutomationTest/node_modules/@wdio/utils/build/test-framework/testFnWrapper.js:45:32)[39m
+[chrome 91.0.4472.164 mac os x #0-0]
+[chrome 91.0.4472.164 mac os x #0-0] 3) Validate carousel items navigation Then I validate sub menu items "" in side nav Background: Background name
+[chrome 91.0.4472.164 mac os x #0-0] [31mStep "I validate sub menu items "" in side nav Background: Background name" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.[39m
+[chrome 91.0.4472.164 mac os x #0-0] [90mStep "I validate sub menu items "" in side nav Background: Background name" is not defined. You can ignore this error by setting cucumberOpts.ignoreUndefinedDefinitions as true.[39m
+[chrome 91.0.4472.164 mac os x #0-0] [90m	at Feature(/Users/sreekanth/Downloads/VolvoAutomationTest/features/CampaignCarouselItems.feature):1:1[39m
+[chrome 91.0.4472.164 mac os x #0-0] [90m	at Scenario(Validate carousel items navigation):12:5[39m
+[chrome 91.0.4472.164 mac os x #0-0] [90m	at Step(I validate sub menu items "" in side nav Background: Background name):20:9[39m
+[chrome 91.0.4472.164 mac os x #0-0]
+
+
+Spec Files:	 0 passed, 2 failed, 2 total (100% completed) in 00:00:03 
+
+2021-07-19T22:42:18.319Z INFO @wdio/local-runner: Shutting down spawned worker
+2021-07-19T22:42:18.574Z INFO @wdio/local-runner: Waiting for 0 to shut down gracefully
+2021-07-19T22:42:18.575Z INFO @wdio/local-runner: shutting down

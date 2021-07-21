@@ -1,0 +1,56 @@
+{
+  "uid" : "619a9eec48473cf",
+  "name" : "Then I see sub menu drawer with title \"More\" is displayed in side nav bar",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\".Then I see sub menu drawer with title \"More\" is displayed in side nav bar",
+  "historyId" : "19b73db569c9745d0d8845c1bbec6081",
+  "time" : {
+    "start" : 1626825289154,
+    "stop" : 1626825289276,
+    "duration" : 122
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I see sub menu drawer with title \"More\" is displayed in side nav bar"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"More\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "619a9eec48473cf.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}

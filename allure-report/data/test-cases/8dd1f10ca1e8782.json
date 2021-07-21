@@ -1,0 +1,56 @@
+{
+  "uid" : "8dd1f10ca1e8782",
+  "name" : "Then I validate sub menu items \"Fleet sales, Used cars,Diplomatic sales, Child seats\" in side nav",
+  "fullName" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\".Then I validate sub menu items \"Fleet sales, Used cars,Diplomatic sales, Child seats\" in side nav",
+  "historyId" : "821386321ac548ff70095b645e1c9225",
+  "time" : {
+    "start" : 1626825160750,
+    "stop" : 1626825194076,
+    "duration" : 33326
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "testClass",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I validate sub menu items \"Fleet sales, Used cars,Diplomatic sales, Child seats\" in side nav"
+  }, {
+    "name" : "package",
+    "value" : "Campaign page menu bar and menu items items: Validate Navigation Side bar menu item \"Buy\""
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.164"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8dd1f10ca1e8782.json",
+  "parameterValues" : [ "chrome-91.0.4472.164" ]
+}
