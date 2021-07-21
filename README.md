@@ -1,5 +1,4 @@
 # VolvoAutomationPoc
-# VolvoAutomationPoc
 
 ## Features
 
@@ -9,7 +8,7 @@
 - BDD tests with [Cucumber](https://cucumber.io/docs/cucumber/) and over 150 predefined steps
 - Support for debugging tests
 - Possibility to visually see the execution in browser with *VNC*
-- Detailed Allure-report generation ([example](https://wswebcreation.github.io/multiple-cucumber-html-reporter/browsers/index.html))
+- Detailed Allure-report generation
 
 ## Requirements
 
